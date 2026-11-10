@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ops Portal Delegation Helper
 // @namespace    https://ads.opsportal.annotation.amazon.dev/
-// @version      3.7.0
+// @version      3.7.1
 // @description  Inline helpers on the Ops Portal delegation form: pick the delegate manager from a dropdown next to "Whom to delegate", a one-click "Till end of day" button next to "Time range", and a list of recent delegations (with the DAs involved) you can re-apply with one click.
 // @author       gexu
 // @match        https://ads.opsportal.annotation.amazon.dev/*
