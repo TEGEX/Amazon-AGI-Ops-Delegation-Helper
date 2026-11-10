@@ -9,6 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/TEGEX/Amazon-AGI-OPs-Checkin-Enhance/refs/heads/main/scripts
+// @downloadURL  https://raw.githubusercontent.com/TEGEX/Amazon-AGI-OPs-Checkin-Enhance/refs/heads/main/scripts
 // ==/UserScript==
 //
 // The REAL "Create Delegation Request" form is rendered in a (cross-origin)
