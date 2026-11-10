@@ -9,7 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
-// ==/UserScript==
+// @updateURL    https://github.com/TEGEX/Amazon-AGI-Ops-Delegation-Helper/blob/main/Ops%20Portal%20Delegation%20Helper
+// @downloadURL  https://github.com/TEGEX/Amazon-AGI-Ops-Delegation-Helper/blob/main/Ops%20Portal%20Delegation%20Helper
 //
 // The REAL "Create Delegation Request" form is rendered in a (cross-origin)
 // iframe from delegation.services.annotation.amazon.dev — the ads.opsportal.*
